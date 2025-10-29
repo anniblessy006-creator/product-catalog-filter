@@ -1,4 +1,4 @@
-Product Catalogue Filter
+# Product catalogue filter
 
 Product Catalogue Filter is a simple, interactive, and responsive web application that allows users to browse and filter products dynamically. Built using HTML, CSS, and JavaScript, it provides a clean user interface where users can search, sort, and apply multiple filters (like category, price, and brand) to find products quickly — all without needing a backend.
 
